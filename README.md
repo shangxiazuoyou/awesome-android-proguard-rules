@@ -37,3 +37,7 @@ Android项目混淆规则
 [Android Studio多渠道打包和代码混淆教程](http://blog.csdn.net/leeo1010/article/details/49903759)
 
 [我的Android混淆（Proguard文件）是怎么写的](http://www.jianshu.com/p/cd5ee9244362)
+
+
+### GitHub
+[Android 常见开源项目 proguard 集合](https://github.com/yongjhih/android-proguards)
