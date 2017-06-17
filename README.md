@@ -38,6 +38,33 @@ Android项目混淆规则
 
 - [我的Android混淆（Proguard文件）是怎么写的](http://www.jianshu.com/p/cd5ee9244362)
 
+- [Android 混淆](http://www.cnblogs.com/yydcdut/p/4771395.html)
+
+- [Android studio 实现代码混淆](http://blog.csdn.net/bjstyle/article/details/47001277)
+
+- [代码混淆和破解apk](http://www.softwareace.cn/?p=1151)
+
+- [Android studio多渠道打包和代码混淆教程](http://blog.csdn.net/leeo1010/article/details/49903759)
+
+- [Android studio 使用心得(五)---代码混淆和破解apk](https://my.oschina.net/aibenben/blog/371889)
+
+- [Android Proguard 详解](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0113/2304.html)
+
+- [Android Proguard(混淆)](http://www.jianshu.com/p/60e82aafcfd0)
+
+- [Android混淆后坑了多少程序猿？](http://www.jianshu.com/p/1044840ecc6d)
+
+- [Android Studio混淆模板及常用第三方混淆(看了都说好)](http://www.jianshu.com/p/f9438603e096)
+
+- [Android混淆机制](https://juejin.im/post/58c39774da2f605609693761)
+
+- [Android Studio 通用混淆](http://www.jianshu.com/p/456befeef08a)
+
+- [Android studio代码混淆注意问题](http://blog.csdn.net/jdsjlzx/article/details/51861460)
 
 ### GitHub
 - [Android 常见开源项目 proguard 集合](https://github.com/yongjhih/android-proguards)
+
+- [Android混淆规则](https://github.com/msdx/android-proguard-cn)
+
+- [Android Proguard混淆配置指南](https://github.com/inferjay/AndroidProguardGuide)
