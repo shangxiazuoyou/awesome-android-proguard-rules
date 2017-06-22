@@ -64,6 +64,10 @@ Android项目混淆规则
 
 - [Android Studio代码混淆](https://juejin.im/post/5947e7e8128fe1006a52d922)
 
+- [写给Android开发者的混淆使用手册](https://mp.weixin.qq.com/s?__biz=MzI4NTQ2OTI4MA==&mid=2247483651&idx=1&sn=85f0d6c6a0f6c4f2ece97429f423c51c&chksm=ebeafe0cdc9d771a31344d0d6861e3b864bfe36d46652770aa522631eb0115a754e1be579d3b#rd)
+
+- [这是你眼中的混淆吗？ProGuard](http://www.jianshu.com/p/5b83ee38b96b)
+
 ### GitHub
 - [Android 常见开源项目 proguard 集合](https://github.com/yongjhih/android-proguards)
 
