@@ -1,5 +1,4 @@
-# awesome-android-proguard-rules
-Android项目混淆规则
+# Android项目混淆规则
 
 ### 文章
 - [Android Studio 代码混淆(你真的会混淆吗)](http://www.jianshu.com/p/ebad06485db3)
@@ -71,6 +70,8 @@ Android项目混淆规则
 - [混淆的另一种境界](http://www.jianshu.com/p/799e5bc62633)
 
 - [对ProGuard使用方法的思考](http://www.jianshu.com/p/14af4a474d55)
+
+- [深入学习ProGuard之：ProGuard简介与Android的应用](https://juejin.im/post/5854fbc98d6d810065a006c4)
 
 ### GitHub
 - [Android 常见开源项目 proguard 集合](https://github.com/yongjhih/android-proguards)
