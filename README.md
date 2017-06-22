@@ -68,6 +68,10 @@ Android项目混淆规则
 
 - [这是你眼中的混淆吗？ProGuard](http://www.jianshu.com/p/5b83ee38b96b)
 
+- [混淆的另一种境界](http://www.jianshu.com/p/799e5bc62633)
+
+- [对ProGuard使用方法的思考](http://www.jianshu.com/p/14af4a474d55)
+
 ### GitHub
 - [Android 常见开源项目 proguard 集合](https://github.com/yongjhih/android-proguards)
 
