@@ -79,3 +79,5 @@
 - [Android混淆规则](https://github.com/msdx/android-proguard-cn)
 
 - [Android Proguard混淆配置指南](https://github.com/inferjay/AndroidProguardGuide)
+
+- [android-proguard-snippets](https://github.com/krschultz/android-proguard-snippets) -Proguard configurations for common Android libraries
