@@ -73,6 +73,8 @@
 
 - [深入学习ProGuard之：ProGuard简介与Android的应用](https://juejin.im/post/5854fbc98d6d810065a006c4)
 
+- [Android 混淆那些事儿](https://mp.weixin.qq.com/s/WmJyiA3fDNriw5qXuoA9MA)
+
 ### GitHub
 - [Android 常见开源项目 proguard 集合](https://github.com/yongjhih/android-proguards)
 
