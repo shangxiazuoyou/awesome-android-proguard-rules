@@ -75,6 +75,10 @@
 
 - [Android 混淆那些事儿](https://mp.weixin.qq.com/s/WmJyiA3fDNriw5qXuoA9MA)
 
+- [Mess详解（关于Activity、自定义View等的混淆）](http://www.wangyuwei.me/2017/02/09/Mess%E8%AF%A6%E8%A7%A3%EF%BC%88%E5%85%B3%E4%BA%8EActivity%E3%80%81%E8%87%AA%E5%AE%9A%E4%B9%89View%E7%AD%89%E7%9A%84%E6%B7%B7%E6%B7%86%EF%BC%89/)
+
+- [Intellij idea 和android studio 代码给混淆](http://www.cnblogs.com/zhou2016/p/5570663.html)
+
 ### GitHub
 - [Android 常见开源项目 proguard 集合](https://github.com/yongjhih/android-proguards)
 
@@ -83,3 +87,5 @@
 - [Android Proguard混淆配置指南](https://github.com/inferjay/AndroidProguardGuide)
 
 - [android-proguard-snippets](https://github.com/krschultz/android-proguard-snippets) -Proguard configurations for common Android libraries
+
+- [Baffle](https://github.com/joker535/Baffle) -Android apk包res 资源混淆工具
