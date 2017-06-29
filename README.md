@@ -79,6 +79,12 @@
 
 - [Intellij idea 和android studio 代码给混淆](http://www.cnblogs.com/zhou2016/p/5570663.html)
 
+- [Android混淆工具——Proguard实践](http://www.jianshu.com/p/ea223e0f3737)
+
+- [Android 混淆从入门到精通](http://www.jianshu.com/p/6d84f078367d)
+
+- [我的Android混淆（Proguard文件）是怎么写的](http://www.jianshu.com/p/cd5ee9244362)
+
 ### GitHub
 - [Android 常见开源项目 proguard 集合](https://github.com/yongjhih/android-proguards)
 
