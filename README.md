@@ -87,6 +87,8 @@
 
 - [三分钟知晓Android APK 混淆 签名 打包 加固 重签名 全流程](http://www.jianshu.com/p/e0f46f3e4bde)
 
+- [Android混淆机制](https://juejin.im/post/58c39774da2f605609693761)
+
 ### GitHub
 - [Android 常见开源项目 proguard 集合](https://github.com/yongjhih/android-proguards)
 
