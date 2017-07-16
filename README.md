@@ -1,6 +1,8 @@
 # Android项目混淆规则
 
 ### 文章
+- [Android 高级混淆和代码保护技术](http://drakeet.me/android-advanced-proguard-and-security/) -🔥
+
 - [Android Studio 代码混淆(你真的会混淆吗)](http://www.jianshu.com/p/ebad06485db3)
 
 - [写给Android开发者的混淆使用手册](https://mp.weixin.qq.com/s?spm=5176.100239.blogcont62980.10.liBJAz&__biz=MzI3MDE0NzYwNA==&mid=2651434039&idx=1&sn=32ea2abdb5ebfd95e64199cf2050eb36&chksm=f128854cc65f0c5a02f2ee310f4dd1bcf75616bc871c7a5714184398b43870a88d06041091ce&scene=0#wechat_redirect)
