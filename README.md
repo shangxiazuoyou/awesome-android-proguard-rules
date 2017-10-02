@@ -91,6 +91,8 @@
 
 - [Android混淆机制](https://juejin.im/post/58c39774da2f605609693761)
 
+- [Android 混淆简单入门](https://juejin.im/post/59cef4955188257a134abef6)
+
 ### GitHub
 - [Android 常见开源项目 proguard 集合](https://github.com/yongjhih/android-proguards)
 
