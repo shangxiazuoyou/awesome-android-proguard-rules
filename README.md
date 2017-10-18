@@ -93,6 +93,16 @@
 
 - [Android 混淆简单入门](https://juejin.im/post/59cef4955188257a134abef6)
 
+- [带你把Apk混淆成中文语言代码](http://www.wjdiankong.cn/android%E5%AE%89%E5%85%A8%E9%98%B2%E6%8A%A4%E4%B9%8B%E6%97%85-%E5%B8%A6%E4%BD%A0%E6%8A%8Aapk%E6%B7%B7%E6%B7%86%E6%88%90%E4%B8%AD%E6%96%87%E8%AF%AD%E8%A8%80%E4%BB%A3%E7%A0%81/)
+
+- [Android 高级混淆和代码保护技术](http://drakeet.me/android-advanced-proguard-and-security/)
+
+- [DEX文件混淆加密](http://gnaixx.cc/2017/02/06/20170206hidex-hack/)
+
+- [Mess详解（关于Activity、自定义View等的混淆）](http://www.wangyuwei.me/2017/02/09/Mess%E8%AF%A6%E8%A7%A3%EF%BC%88%E5%85%B3%E4%BA%8EActivity%E3%80%81%E8%87%AA%E5%AE%9A%E4%B9%89View%E7%AD%89%E7%9A%84%E6%B7%B7%E6%B7%86%EF%BC%89/)
+
+- [写给Android开发者的混淆使用手册](https://mp.weixin.qq.com/s?__biz=MzI4NTQ2OTI4MA==&mid=2247483651&idx=1&sn=85f0d6c6a0f6c4f2ece97429f423c51c&chksm=ebeafe0cdc9d771a31344d0d6861e3b864bfe36d46652770aa522631eb0115a754e1be579d3b&mpshare=1&scene=1&srcid=1024UkYIEnnKkL8C8ZgbSmts&from=groupmessage&isappinstalled=0#wechat_redirect)
+
 ### GitHub
 - [Android 常见开源项目 proguard 集合](https://github.com/yongjhih/android-proguards)
 
@@ -103,3 +113,5 @@
 - [android-proguard-snippets](https://github.com/krschultz/android-proguard-snippets) -Proguard configurations for common Android libraries
 
 - [Baffle](https://github.com/joker535/Baffle) -Android apk包res 资源混淆工具
+
+- [AndroidProguard](https://github.com/pengyuantao/AndroidProguard) -android代码混淆AndroidStudio插件
