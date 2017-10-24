@@ -115,3 +115,5 @@
 - [Baffle](https://github.com/joker535/Baffle) -Android apk包res 资源混淆工具
 
 - [AndroidProguard](https://github.com/pengyuantao/AndroidProguard) -android代码混淆AndroidStudio插件
+
+- [AndResGuard](https://github.com/shwenzhang/AndResGuard)
