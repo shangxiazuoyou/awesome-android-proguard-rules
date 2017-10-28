@@ -103,6 +103,8 @@
 
 - [写给Android开发者的混淆使用手册](https://mp.weixin.qq.com/s?__biz=MzI4NTQ2OTI4MA==&mid=2247483651&idx=1&sn=85f0d6c6a0f6c4f2ece97429f423c51c&chksm=ebeafe0cdc9d771a31344d0d6861e3b864bfe36d46652770aa522631eb0115a754e1be579d3b&mpshare=1&scene=1&srcid=1024UkYIEnnKkL8C8ZgbSmts&from=groupmessage&isappinstalled=0#wechat_redirect)
 
+- [Android 代码混淆语法讲解及常用模板](http://blog.csdn.net/gdutxiaoxu/article/details/78253651)
+
 ### GitHub
 - [Android 常见开源项目 proguard 集合](https://github.com/yongjhih/android-proguards)
 
