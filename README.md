@@ -119,3 +119,5 @@
 - [AndroidProguard](https://github.com/pengyuantao/AndroidProguard) -android代码混淆AndroidStudio插件
 
 - [AndResGuard](https://github.com/shwenzhang/AndResGuard)
+
+- [AndroidProguardPlugin](https://github.com/zhonghanwen/AndroidProguardPlugin) -Android Studio generate proguard codes
