@@ -105,6 +105,8 @@
 
 - [Android 代码混淆语法讲解及常用模板](http://blog.csdn.net/gdutxiaoxu/article/details/78253651)
 
+- [ProGuard 在 Android 上的使用姿势](https://github.com/xitu/gold-miner/blob/master/TODO/troubleshooting-proguard-issues-on-android.md)
+
 ### GitHub
 - [Android 常见开源项目 proguard 集合](https://github.com/yongjhih/android-proguards)
 
