@@ -107,6 +107,8 @@
 
 - [ProGuard 在 Android 上的使用姿势](https://github.com/xitu/gold-miner/blob/master/TODO/troubleshooting-proguard-issues-on-android.md)
 
+- [AndResGuard集成笔记](http://www.jianshu.com/p/fe988af9c663)
+
 ### GitHub
 - [Android 常见开源项目 proguard 集合](https://github.com/yongjhih/android-proguards)
 
