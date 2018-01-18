@@ -109,6 +109,8 @@
 
 - [AndResGuard集成笔记](http://www.jianshu.com/p/fe988af9c663)
 
+- [Android 混淆解析](https://www.jianshu.com/p/84114b7feb38)
+
 ### GitHub
 - [Android 常见开源项目 proguard 集合](https://github.com/yongjhih/android-proguards)
 
