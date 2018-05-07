@@ -1,6 +1,8 @@
 # Android项目混淆规则
 
 ### 文章
+- [Android插件化、热补丁中绕不开的Proguard的坑](https://juejin.im/post/5ae2d3b36fb9a07a9e4cf314)
+
 - [Android 高级混淆和代码保护技术](http://drakeet.me/android-advanced-proguard-and-security/) -🔥
 
 - [Android Studio 代码混淆(你真的会混淆吗)](http://www.jianshu.com/p/ebad06485db3)
