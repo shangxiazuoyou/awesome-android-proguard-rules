@@ -115,6 +115,8 @@
 
 - [Android混淆简单了解](https://www.jianshu.com/p/546733072d8d)
 
+-[Android 开发应该掌握的 Proguard 技巧](https://juejin.im/post/5b6af5655188251a9e171de2)
+
 ### GitHub
 - [Android 常见开源项目 proguard 集合](https://github.com/yongjhih/android-proguards)
 
