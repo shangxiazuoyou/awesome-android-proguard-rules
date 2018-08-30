@@ -133,3 +133,5 @@
 - [AndResGuard](https://github.com/shwenzhang/AndResGuard)
 
 - [AndroidProguardPlugin](https://github.com/zhonghanwen/AndroidProguardPlugin) -Android Studio generate proguard codes
+
+- [FreeProGuard](https://github.com/Blankj/FreeProGuard)
