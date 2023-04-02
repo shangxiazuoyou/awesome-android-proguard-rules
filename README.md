@@ -136,6 +136,8 @@
 
 - [AndResGuard](https://github.com/shwenzhang/AndResGuard)
 
+- [AndResGuard](https://github.com/Leon406/AndResGuard) -proguard resource for Android by wechat team，本项目是上面项目的fork
+
 - [AndroidProguardPlugin](https://github.com/zhonghanwen/AndroidProguardPlugin) -Android Studio generate proguard codes
 
 - [FreeProGuard](https://github.com/Blankj/FreeProGuard)
