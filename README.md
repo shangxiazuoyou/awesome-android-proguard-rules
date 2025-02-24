@@ -121,6 +121,8 @@
 
 -[Android 开发应该掌握的 Proguard 技巧](https://juejin.im/post/5b6af5655188251a9e171de2)
 
+-[App应用混淆：防止反编译、将App包体积降小。](https://juejin.cn/post/7471408118813900837)
+
 ### GitHub
 - [Android 常见开源项目 proguard 集合](https://github.com/yongjhih/android-proguards)
 
